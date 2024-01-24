@@ -1,5 +1,5 @@
 # Estudo sobre QA 📚 🕵️‍♂️
-
+Esse documento tem como objetivo, reguistrar conceitos importantes que são muitos utilizados quandom estamos falando em testes de Software
 ### Exemplo de alguns testes existentes
 <img align="center" width="784" alt="pirâmideteste" src="https://github.com/Thiago142/estudos-testes/assets/19669432/0f8992dc-8e4b-4857-8c73-16e71a3ae1c3">
 
