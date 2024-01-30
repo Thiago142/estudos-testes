@@ -30,3 +30,5 @@ Existem outros testes como é o exemplo de Testes Regressivo, Testes de Carga, T
 **Green:** Escrever o código mínimo necessário para fazer o teste passar.
 
 **Refactor:** Refatorar o código para melhorar a qualidade, mantendo-o passando nos testes.
+
+![image](https://github.com/Thiago142/estudos-testes/assets/19669432/b3fc7c44-2162-42e8-8e9c-4fc49405067f)
